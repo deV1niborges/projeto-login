@@ -32,6 +32,7 @@
 
     #login {
         width: 990px;
+        height: 350px;
     }
     
     #imagem {
@@ -42,7 +43,6 @@
 
     #formulario {
         float: left;
-        height: 100%;
         width: 50%;
     }
 
@@ -52,5 +52,6 @@
 
     #formulario p {
         font-size: 1.1em;
+        margin: 20px 0px;
     }
 }
